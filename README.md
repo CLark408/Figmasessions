@@ -23,7 +23,7 @@ O usuário tem **dois caminhos distintos** para realizar a mesma tarefa principa
 * **Documentação:** GitHub
 
 ## 🔗 Acesso ao protótipo
-> **https://www.figma.com/design/KwhBPfBcaFmfNgt2g6qBxW/Sem-t%C3%ADtulo?node-id=0-1&t=OIwzv1L2StpfxkJJ-1**
+> **https://www.figma.com/proto/KwhBPfBcaFmfNgt2g6qBxW/aplicativo-academico?node-id=0-1&t=XxK3AFEE1dW3xxVe-1**
 
 ***
 
